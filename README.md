@@ -1,5 +1,3 @@
-
-
 data originally gotten from 
 https://dataturks.com
 specifically the following projects
